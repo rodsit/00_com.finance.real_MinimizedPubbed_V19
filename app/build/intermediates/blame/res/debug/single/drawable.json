@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/Will/AndroidStudioProjects/00_com.finance.real_MinimizedPubbed_V19/app/build/intermediates/res/merged/debug/drawable/button.png",
+        "source": "/Users/Will/AndroidStudioProjects/00_com.finance.real_MinimizedPubbed_V19/app/src/main/res/drawable/button.png"
+    },
+    {
+        "merged": "/Users/Will/AndroidStudioProjects/00_com.finance.real_MinimizedPubbed_V19/app/build/intermediates/res/merged/debug/drawable/icon.png",
+        "source": "/Users/Will/AndroidStudioProjects/00_com.finance.real_MinimizedPubbed_V19/app/src/main/res/drawable/icon.png"
+    },
+    {
+        "merged": "/Users/Will/AndroidStudioProjects/00_com.finance.real_MinimizedPubbed_V19/app/build/intermediates/res/merged/debug/drawable/sound.png",
+        "source": "/Users/Will/AndroidStudioProjects/00_com.finance.real_MinimizedPubbed_V19/app/src/main/res/drawable/sound.png"
+    },
+    {
+        "merged": "/Users/Will/AndroidStudioProjects/00_com.finance.real_MinimizedPubbed_V19/app/build/intermediates/res/merged/debug/drawable/info.png",
+        "source": "/Users/Will/AndroidStudioProjects/00_com.finance.real_MinimizedPubbed_V19/app/src/main/res/drawable/info.png"
+    }
+]

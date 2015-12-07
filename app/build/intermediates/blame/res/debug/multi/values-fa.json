@@ -1,0 +1,47 @@
+[
+    {
+        "outputFile": "/Users/Will/AndroidStudioProjects/00_com.finance.real_MinimizedPubbed_V19/app/build/intermediates/res/merged/debug/values-fa/values-fa.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 52,
+                    "endOffset": 103
+                },
+                "from": {
+                    "file": "/Users/Will/AndroidStudioProjects/00_com.finance.real_MinimizedPubbed_V19/app/src/main/res/values-fa/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 52,
+                        "endOffset": 103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 108,
+                    "endLine": 459,
+                    "endColumn": 9,
+                    "endOffset": 50347
+                },
+                "from": {
+                    "file": "/Users/Will/AndroidStudioProjects/00_com.finance.real_MinimizedPubbed_V19/app/src/main/res/values-fa/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 0,
+                        "startOffset": 109,
+                        "endLine": 459,
+                        "endColumn": 9,
+                        "endOffset": 50359
+                    }
+                }
+            }
+        ]
+    }
+]
